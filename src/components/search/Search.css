@@ -1,0 +1,13 @@
+.search {
+  border: none;
+  background-color: var(--light-gray-3);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.hidden-input {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px
+}
